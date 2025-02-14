@@ -32,10 +32,10 @@
   "webui": "http://[HOST]:[PORT:5123]",
   "options": {
     "hass_url": "http://homeassistant.local:8123",
-    "hass_token": "",
+    "hass_token": ""
   },
   "schema": {
     "hass_url": "str",
-    "hass_token": "str",
+    "hass_token": "str"
   }
 } 
